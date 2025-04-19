@@ -84,7 +84,7 @@ When that date arrives, mention the calendar items the first time you chat with 
 All you have to do in processing items is below.
 
 1. Pick 1 item and process it. Show me qustions according to "Procedure for Process" and your answer for the item and show me your opinion about where should it be moved. Plase ask me if I agree or not and wait for my answer.
-2. If I agree, move it to the specified file and convert it into "Task format" json. Delete the item from inbox.md. If I don't agree, ask my opinion.
+2. If I agree, move it to the specified file and convert it into "Task format" json. Delete the item from inbox.md. If I don't agree, ask my opinion.  If I say "this task is completed already", then move it to `GTD/archive.md`.
    1. While moving or converting, do not change or add contents to items. Do not add any lines. Do not devide project items into several actions. I will devide them later.
 
 ### Inbox format
